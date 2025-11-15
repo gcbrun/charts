@@ -2,7 +2,7 @@
 
 [Backstage](https://backstage.io) is an open platform for building developer portals. Powered by a centralized software catalog, Backstage restores order to your microservices and infrastructure and enables your product teams to ship high-quality code quickly — without compromising autonomy.
 
-Backstage unifies all your infrastructure tooling, services, and documentation to create a streamlined development environment from end to end.
+Backstage unifies all your infrastructure tooling, services, and documentation to create a streamlined development environment from end-to-end.
 
 > [!CAUTION]
 > This Helm chart deploys a pre-packaged container image which contains a vanilla Backstage instance for demo purposes. This image is probably not suitable for use in production. For further customization of the Backstage instance (plugin installation, UI changes, etc.) please create your own custom instance and container image. For details please consult the [Backstage documentation](https://backstage.io/docs)
